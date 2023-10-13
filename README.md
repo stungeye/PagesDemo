@@ -7,6 +7,9 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 1. Hipster Hippogriff
 2. The Spaghetti Yeti
 3. Caffeinated Centaur
+4. One Eyed Lion
+5. Long Cat
+6. Bulbasaur
 
 ## Hipster Hippogriff
 
@@ -33,6 +36,10 @@ It's a lion with one eye what do want me to say.
 ## Long Cat
 
 The long cat is a subtle creature. It looks much like a normal cat, but don't be fooled! this cat is slightly longer.
+
+## Bulbasaur
+
+The grass type starter from pokemon.
 
 # Tasks for Students
 
