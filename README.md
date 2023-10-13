@@ -5,9 +5,9 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 ## Table of Contents
 
 1. Hipster Hippogriff
-2. The Spaghetti Yeti
+2. The Spaghetti Dolphin
 3. Caffeinated Centaur
-4. One Eyed Lion
+4. Six Eyed Lion
 5. Long Cat
 6. Buff Bunny
 7. Simulacrum Abyss Flower
@@ -20,21 +20,19 @@ Sporting oversized glasses and an ironic mustache, the Hipster Hippogriff was in
 
 It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume.
 
-## The Spaghetti Yeti
+## The Spaghetti Dolphin
 
 This high-altitude creature roams the mountainous regions of Italy, leaving trails of marinara sauce in its wake. 
 
 Often confused with the traditional Yeti, the Spaghetti Yeti is known for its deliciously tangled fur and insatiable appetite for meatballs.
 
-## Caffeinated Centaur
+## Red Caffeinated Centaur
 
-Originating from the ancient coffee forests of Ethiopia, this creature can outrun any animal after having its morning brew. 
+Redbull is supposed to give you wings, but it gave this guy a horse :) .
 
-If you hear the galloping sound of hooves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
+## Six Eyed Lion
 
-## One Eyed Lion
-
-It's a lion with one eye what do want me to say.
+It's a lion with six eyes, what do want me to say.
 
 ## Long Cat
 
@@ -46,9 +44,7 @@ Seriously Yolked bunny, that is humanoid but still has a cute face.
 
 ## Simulacrum Abyss Flower
 
-A rare magic flower from Pandemonium, the Simulacrum is a omnivorous plant buried deep underground in an organic expandable carapace, and aggressively consumes and absorbs the vitality and intelligence of any living being.
-It produces mimics that imitate its prey’s behavior accurately, no matter how complex, and slowly replaces all life within its growing area of influence.
-When devouring intelligent life forms such as humans, the faces of these victims are embedded onto the shell underground, and tendrils sprout up to the surface to mimic their behaviors.
+A flower.
 
 ## Bulbasaur
 
@@ -79,5 +75,5 @@ The grass type starter from pokemon.
   * Deal with the merge conflict in your local branch.
   * Push your branch back to the remote.
   * Attempt to create a pull request again.
+  * Anarchy
 * Now head to the computer of another student in your group and attempt to approve the pull request. 
-
