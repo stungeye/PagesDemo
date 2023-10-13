@@ -20,11 +20,17 @@ Sporting oversized glasses and an ironic mustache, the Hipster Hippogrif was int
 
 It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume.
 
+He faced discrimination for being a hipster in a blue collared neighbourhood. Everyone hated them. But now they leave in NYC and are cherrished. 
+
+They may commonly be found in alleys, doing a mating dance called drug dealing.
+
 ## The Spaghetti Yeti
 
 This high-altitude creature roams the mountainous regions of italy, leaving trails of marinara sauce in its wake. 
 
 Often confused with the traditional Yeti, the Spaghetti Yeti is known for its deliciously tangled fur and insatiable appetite for meatballs.
+
+Each spaghetti strand on the Yeti is a rare variant of tapeworm, that when consumed, forcefully transforms primates into Spaghetti Yetis.
 
 ## Caffeinated Centaur
 
@@ -32,17 +38,21 @@ Originating from the ancient coffee forests of Ethiopia, this creature can outru
 
 If you hear the galloping sound of hoves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
 
+Caffeinated Centaurs were once normal people from Ethiopia, having mutated after consumed radioactive coffee beans from the nearby destroyed nuclear plants. 
+
+It's been said that the farmers refused to move their crops away from radioactive material, which caused the mutation.
+
 ## One Eyed Lion
 
-It's a lion with one eye what do want me to say.
+It's a lion with one eye on its stomach what do want me to say.
 
 ## Longs Cat
 
-The long cat is a subtle creature. It looks much like a normal cat, but don't be fooled! this cat is slightly longer.
+The long cat is a monstrous creature. It looks much like a incredibliy ugly cat, but don't be fooled! this kitty is slightly longer.
 
 ## Buff Bunny
 
-Seriously Yolked bunny, that is humanoid but still has a cute face. 
+Seriously Yolked bunny, that is humanoid but still has a cute face. Rumors has it that Buff Bunnies eat their weaker brothers and sisters in order to reach the state they are in now.
 
 ## Simulacrum Abyss Flower
 
