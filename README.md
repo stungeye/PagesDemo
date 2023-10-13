@@ -16,13 +16,13 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 
 ## Hipster Hippogriff
 
-Sporting oversized glasses and an ironic mustache, the Hipster Hippogriff was into mythical creatures before they were cool. 
+Sporting oversized glasses and an ironic mustache, the Hipster Hippogrif was into mythical creatures before they were cool. 
 
 It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume.
 
 ## The Spaghetti Yeti
 
-This high-altitude creature roams the mountainous regions of Italy, leaving trails of marinara sauce in its wake. 
+This high-altitude creature roams the mountainous regions of italy, leaving trails of marinara sauce in its wake. 
 
 Often confused with the traditional Yeti, the Spaghetti Yeti is known for its deliciously tangled fur and insatiable appetite for meatballs.
 
@@ -30,13 +30,13 @@ Often confused with the traditional Yeti, the Spaghetti Yeti is known for its de
 
 Originating from the ancient coffee forests of Ethiopia, this creature can outrun any animal after having its morning brew. 
 
-If you hear the galloping sound of hooves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
+If you hear the galloping sound of hoves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
 
 ## One Eyed Lion
 
 It's a lion with one eye what do want me to say.
 
-## Long Cat
+## Longs Cat
 
 The long cat is a subtle creature. It looks much like a normal cat, but don't be fooled! this cat is slightly longer.
 
@@ -46,21 +46,22 @@ Seriously Yolked bunny, that is humanoid but still has a cute face.
 
 ## Simulacrum Abyss Flower
 
-A rare magic flower from Pandemonium, the Simulacrum is a omnivorous plant buried deep underground in an organic expandable carapace, and aggressively consumes and absorbs the vitality and intelligence of any living being.
-It produces mimics that imitate its prey’s behavior accurately, no matter how complex, and slowly replaces all life within its growing area of influence.
-When devouring intelligent life forms such as humans, the faces of these victims are embedded onto the shell underground, and tendrils sprout up to the surface to mimic their behaviors.
+A common, plain, boring magic flower from Pandemonium, the Simulacrum is a omnivorous plant buried deep underground in an fake expandable carapace, and aggressively consumes and absorbs the vitality and intelligence of any living being.
+It produces mimics that imitate its days’s behavior acurately, no matter how complex, and slowly replaces all life within its growing area of influence.
+
 
 ## Bulbasaur
 
-The grass type starter from pokemon.
+The grass type starter from pokemon the worst one.
 
 # Tasks for Students
 
 ## Part One: New Creatures
 
-* Provide Kyle with your Git username so that he can add you as a contributor to this repo.
+* Provide Kile with your Git username so that he can add you as a contributor to this repo.
 * One student in your group should clone the repo to their computer and:
-  * Create a branch called \<yourname\>-creature-addition. (Where \<yourname\> is your first name.)
+  * Create a branch called \<yournam
+e\>-creature-addition. (Where \<yourname\> is your first name.)
   * Add a new creature and description to the webpage. (Don't forget to add to the table of contents too.)
   * Commit your change locally.
   * Push your branch remotely.
@@ -69,7 +70,7 @@ The grass type starter from pokemon.
 
 ## Part Two: Modifying Existing Creatures
 
-* One student in your group should create a branch called \<yourname\>-description-change. (Where \<yourname\> is your first name.)
+* On student in your group should create a branch called \<yourname\>-description-change. (Where \<yourname\> is your first name.)
 * Add a sentence to one of the creature descriptions and commit that change locally.
 * Make a small change to one of the existing creature descriptions and commit that change locally.
 * Push your branch remotely.
