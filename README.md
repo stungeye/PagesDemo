@@ -30,6 +30,10 @@ If you hear the galloping sound of hooves and smell a rich dark roast, you know 
 
 It's a lion with one eye what do want me to say.
 
+## Long Cat
+
+The long cat is a subtle creature. It looks much like a normal cat, but don't be fooled! this cat is slightly longer.
+
 # Tasks for Students
 
 ## Part One: New Creatures
