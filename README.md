@@ -34,6 +34,13 @@ It's a lion with one eye what do want me to say.
 
 The long cat is a subtle creature. It looks much like a normal cat, but don't be fooled! this cat is slightly longer.
 
+## Simulacrum Abyss Flower
+
+A rare magic flower from Pandemonium, the Simulacrum is a omnivorous plant buried deep underground in an organic expandable carapace, and aggressively consumes and absorbs the vitality and intelligence of any living being.
+It produces mimics that imitate its prey’s behavior accurately, no matter how complex, and slowly replaces all life within its growing area of influence.
+When devouring intelligent life forms such as humans, the faces of these victims are embedded onto the shell underground, and tendrils sprout up to the surface to mimic their behaviors.
+
+
 # Tasks for Students
 
 ## Part One: New Creatures
