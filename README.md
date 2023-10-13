@@ -18,7 +18,7 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 
 Sporting oversized glasses and an ironic mustache, the Hipster Hippogrif was into mythical creatures before they were cool. 
 
-It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume.
+It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume. This is an addition.
 
 He faced discrimination for being a hipster in a blue collared neighbourhood. Everyone hated them. But now they leave in NYC and are cherrished. 
 
@@ -57,7 +57,6 @@ Seriously Yolked bunny, that is humanoid but still has a cute face. Rumors has i
 ## Simulacrum Abyss Flower
 
 A common, plain, boring magic flower from Pandemonium, the Simulacrum is a omnivorous plant buried deep underground in an fake expandable carapace, and aggressively consumes and absorbs the vitality and intelligence of any living being.
-It produces mimics that imitate its days’s behavior acurately, no matter how complex, and slowly replaces all life within its growing area of influence.
 
 
 ## Bulbasaur
