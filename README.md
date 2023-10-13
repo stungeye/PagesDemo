@@ -26,6 +26,10 @@ Originating from the ancient coffee forests of Ethiopia, this creature can outru
 
 If you hear the galloping sound of hooves and smell a rich dark roast, you know the Caffeinated Centaur isn't far away.
 
+## One Eyed Lion
+
+It's a lion with one eye what do want me to say.
+
 # Tasks for Students
 
 ## Part One: New Creatures
