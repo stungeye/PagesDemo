@@ -11,6 +11,8 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 5. Long Cat
 6. Buff Bunny
 7. Simulacrum Abyss Flower
+8. Bulbasaur
+
 
 ## Hipster Hippogriff
 
@@ -47,6 +49,10 @@ Seriously Yolked bunny, that is humanoid but still has a cute face.
 A rare magic flower from Pandemonium, the Simulacrum is a omnivorous plant buried deep underground in an organic expandable carapace, and aggressively consumes and absorbs the vitality and intelligence of any living being.
 It produces mimics that imitate its prey’s behavior accurately, no matter how complex, and slowly replaces all life within its growing area of influence.
 When devouring intelligent life forms such as humans, the faces of these victims are embedded onto the shell underground, and tendrils sprout up to the surface to mimic their behaviors.
+
+## Bulbasaur
+
+The grass type starter from pokemon.
 
 # Tasks for Students
 
