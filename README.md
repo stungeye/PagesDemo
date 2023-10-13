@@ -1,4 +1,4 @@
-# The Unofficial Guide to Imaginary Creatures 🦄
+# Unofficial Guide to Imaginary Creatures 🦄
 
 Welcome to the most comprehensive guide about creatures that... well, don't actually exist. 
 
