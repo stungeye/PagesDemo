@@ -16,15 +16,21 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 
 ## Hipster Hippogriff
 
-Sporting oversized glasses and an ironic mustache, the Hipster Hippogriff was into mythical creatures before they were cool. 
+Sporting oversized glasses and an ironic mustache, the Hipster Hippogrif was into mythical creatures before they were cool. 
 
 It roams the independent music shops of the realm, always on the lookout for the next obscure vinyl record to consume.
 
+He faced discrimination for being a hipster in a blue collared neighbourhood. Everyone hated them. But now they leave in NYC and are cherrished. 
+
+They may commonly be found in alleys, doing a mating dance called drug dealing.
+
 ## The Spaghetti Dolphin
 
-This high-altitude creature roams the mountainous regions of Italy, leaving trails of marinara sauce in its wake. 
+This high-altitude creature roams the mountainous regions of italy, leaving trails of marinara sauce in its wake. 
 
-Often confused with the traditional Yeti, the Spaghetti Yeti is known for its deliciously tangled fur and insatiable appetite for meatballs.
+Often confused with the traditional Dolphin, the Spaghetti Dolphin is known for its deliciously tangled fur and insatiable appetite for meatballs.
+
+Each spaghetti strand on the Dolphin is a rare variant of tapeworm, that when consumed, forcefully transforms primates into Spaghetti Dolphins.
 
 ## Red Caffeinated Centaur
 
@@ -34,13 +40,13 @@ Redbull is supposed to give you wings, but it gave this guy a horse :) .
 
 It's a lion with six eyes, what do want me to say.
 
-## Long Cat
+## Longs Cat
 
-The long cat is a subtle creature. It looks much like a normal cat, but don't be fooled! this cat is slightly longer.
+The long cat is a monstrous creature. It looks much like a incredibliy ugly cat, but don't be fooled! this kitty is slightly longer.
 
 ## Buff Bunny
 
-Seriously Yolked bunny, that is humanoid but still has a cute face. 
+Seriously Yolked bunny, that is humanoid but still has a cute face. Rumors has it that Buff Bunnies eat their weaker brothers and sisters in order to reach the state they are in now.
 
 ## Simulacrum Abyss Flower
 
@@ -48,15 +54,16 @@ A flower.
 
 ## Bulbasaur
 
-The grass type starter from pokemon.
+The grass type starter from pokemon the worst one.
 
 # Tasks for Students
 
 ## Part One: New Creatures
 
-* Provide Kyle with your Git username so that he can add you as a contributor to this repo.
+* Provide Kile with your Git username so that he can add you as a contributor to this repo.
 * One student in your group should clone the repo to their computer and:
-  * Create a branch called \<yourname\>-creature-addition. (Where \<yourname\> is your first name.)
+  * Create a branch called \<yournam
+e\>-creature-addition. (Where \<yourname\> is your first name.)
   * Add a new creature and description to the webpage. (Don't forget to add to the table of contents too.)
   * Commit your change locally.
   * Push your branch remotely.
@@ -65,7 +72,7 @@ The grass type starter from pokemon.
 
 ## Part Two: Modifying Existing Creatures
 
-* One student in your group should create a branch called \<yourname\>-description-change. (Where \<yourname\> is your first name.)
+* On student in your group should create a branch called \<yourname\>-description-change. (Where \<yourname\> is your first name.)
 * Add a sentence to one of the creature descriptions and commit that change locally.
 * Make a small change to one of the existing creature descriptions and commit that change locally.
 * Push your branch remotely.
