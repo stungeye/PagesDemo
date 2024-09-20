@@ -12,6 +12,7 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 6. Buff Bunny
 7. Simulacrum Abyss Flower
 8. Bulbasaur
+9. Pikachu
 
 
 ## Hipster Hippogriff
@@ -62,6 +63,10 @@ A common, plain, boring magic flower from Pandemonium, the Simulacrum is a omniv
 ## Bulbasaur
 
 The grass type starter from pokemon the worst one.
+
+## Pikachu
+
+A strange yellow mouse that can generate electricity.
 
 # Tasks for Students
 
