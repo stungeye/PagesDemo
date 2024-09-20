@@ -11,7 +11,8 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 5. Long Cat
 6. Buff Bunny
 7. Simulacrum Abyss Flower
-8. Bulbasaur
+8. Unicrab
+9. Bulbasaur
 
 
 ## Hipster Hippogriff
@@ -57,6 +58,10 @@ Seriously Yolked bunny, that is humanoid but still has a cute face. Rumors has i
 ## Simulacrum Abyss Flower
 
 A common, plain, boring magic flower from Pandemonium, the Simulacrum is a omnivorous plant buried deep underground in an fake expandable carapace, and aggressively consumes and absorbs the vitality and intelligence of any living being.
+
+## Unicrab
+
+A large, crab-like creature with a single claw protruding from its forehead much like a unicorn's horn. I like it :)
 
 
 ## Bulbasaur
