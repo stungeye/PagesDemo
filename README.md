@@ -68,6 +68,11 @@ A large, crab-like creature with a single claw protruding from its forehead much
 
 The grass type starter from pokemon the worst one.
 
+## angry Bob
+ 
+He appears one time every year on a full moon to kill 18 babies. And grows a second head, similar to mitosis. once he has enough limbs he willl spilt into 2 bobs. bob is short, he enjoys kicking parents shins.  
+
+
 # Tasks for Students
 
 ## Part One: New Creatures
