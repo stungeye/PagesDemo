@@ -12,6 +12,7 @@ Welcome to the most comprehensive guide about creatures that... well, don't actu
 6. Buff Bunny
 7. Simulacrum Abyss Flower
 8. Bulbasaur
+9. French People
 
 
 ## Hipster Hippogriff
@@ -62,6 +63,10 @@ A common, plain, boring magic flower from Pandemonium, the Simulacrum is a omniv
 ## Bulbasaur
 
 The grass type starter from pokemon the worst one.
+
+## French People
+
+Inferior, subhuman trash. Abominable beings of hate and spite. They are creatures who know no manners. Quite the specimen if I do say so myself. -Conor
 
 # Tasks for Students
 
